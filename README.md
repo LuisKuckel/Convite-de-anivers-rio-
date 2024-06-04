@@ -3,6 +3,6 @@ Projeto desenvolvido com intuito de estudar e divertir, para fazer pelo código 
 
 <h1>Tecnologias Usadas</h1>
 <ul>
-  <li>Html</li>
-  <li>CSS</li>
+  <li><a href= "https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">HTML</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></li>
 </ul>
